@@ -29,4 +29,4 @@ http://www.navcoin.org
 
 We are working towards a lot of cool projects, checkout our roadmap
 
-http://www.navcoin.org/projects
+https://navcoin.org/project-roadmap/
