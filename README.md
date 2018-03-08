@@ -30,3 +30,8 @@ http://www.navcoin.org
 We are working towards a lot of cool projects, checkout our roadmap
 
 http://www.navcoin.org/projects
+
+
+License
+---------------------
+Distributed under the [MIT software license](http://www.opensource.org/licenses/mit-license.php).
